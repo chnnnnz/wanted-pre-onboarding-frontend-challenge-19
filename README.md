@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# wanted-pre-onboarding-frontend-challenge-19
+🚀 2024년 3월 프리온보딩 프론트엔드 챌린지 사전과제
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# 이력서 링크
+- <https://futuristic-kick-298.notion.site/c27d69e8f3d3472ba2ee050ec86004b4?pvs=74>
 
-In the project directory, you can run:
 
-### `npm start`
+# 과제 1
+- <https://github.com/chnnnnz/wanted-pre-onboarding-frontend-challenge-19>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 과제 2
+### 1. DOM과 Virtual DOM을 설명해주세요.
+   - DOM : html 문서의 태그를 JavaScript가 이용할 수 있는 오브젝트 형태로 만들어 브라우저에서 실행될 수 있도록 하는 트리 형태의 문서 객체 모델
+   - Virtual DOM : DOM의 가벼운 복사본, React 또는 일부 라이브러리(Vue.js 등)에서 사용되는 개념의 가상 돔(DOM)
+### 2. 리액트의 특징을 설명해주세요.
+   - 이전과 현재의 가상 DOM을 비교해 실제 DOM에 최소한의 변경을 적용하고 성능을 향상시킨다
+   - 실제 DOM 조작을 최소화 시키면서 사용자 인터페이스를 업데이트하기 편리하다
+   - 컴포넌트 기반의 구조로 UI를 독립적이고 재사용성과 모듈화를 촉진함. 이는 자체적인 상태를 가진다
+   - JSX 라는 자바스크립트 확장문법을 사용해 가독성이 높으며, 로직을 한 곳에서 관리할 수 있다
+   - 간결하고 직관적인 API를 제공해 쉽게 학습하고 사용할 수 있다
+### 3. flux 패턴에 대하여 설명해주세요.
+   - Facebook에서 개발한 웹 어플리케이션 아키텍처. 단방향 데이터의 흐름을 가지고 있으며, 디스패처(Dispatcher) / 스토어(Stores) / 뷰(Views) 로 구성되어 있다
+### 4. 상태관리에 대하여 설명해주세요.
+   - 사용자가 화면을 조작할 때 사용되는 데이터를 상태(state)라고 하고, 이를 관리하는 것.
+### 5. 궁금한 것에 대하여 알려주세요.
+   - 저는 프론트엔드가 아닌 퍼블리셔 입니다. 퍼블리셔 경력이 프론트엔드 신입으로 들어갈 때 어필이 될까요?
+     그리고 어느정도의 지식 수준과 스킬이 있어야 프론트엔드로 전향이 가능한지 궁금해요. 현재 제 수준으로 전향이 가능할까요 ...? 
